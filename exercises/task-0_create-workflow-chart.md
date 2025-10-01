@@ -27,7 +27,7 @@ eraser would be better)
 
 Draw this on your paper:
 
-![](../figures/workflow-drawing.png)
+![](figures/workflow-drawing.png)
 
 ### 2. Draw an arrow for commands that move changes.
 
@@ -37,17 +37,17 @@ you've moved a change, and label it with the command. E.g.,
 
 - When I stage a change with `git add`, I draw an arrow like this:
 
-![](../figures/workflow-drawing-with-git-add.png)
+![](figures/workflow-drawing-with-git-add.png)
 
 - When I commit the staged change with `git commit -m <commit message>`, I draw
   this:
 
-![](../figures/workflow-drawing-with-git-add-commit.png)
+![](figures/workflow-drawing-with-git-add-commit.png)
 
 - When I push the committed changes to github with
   `git push <remote shortname> <branch name>`, I draw this:
 
-![](../figures/workflow-drawing-with-git-add-commit-push.png)
+![](figures/workflow-drawing-with-git-add-commit-push.png)
 
 - Note that some git commands don't move changes around. E.g., `git branch`,
   `git log`, `git status`, `git init`. You don't need to put such commands on
