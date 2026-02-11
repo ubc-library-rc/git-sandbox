@@ -1,6 +1,6 @@
 # Git Sandbox
 
-by Kendra Oudyk
+by Kendra Marie Oudyk
 
 
 This repository contains exercises that let you practice what you learned in workshops introducing Git and GitHub.
