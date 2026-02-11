@@ -3,13 +3,9 @@
 ## Task
 Create a local repository, link it to a remote repository on GitHub, and practice changing the repo and sharing your changes on GitHub.
 
-## Add to your drawing
-As you go through these steps, add to your drawing the commands that move changes between different parts of the git project.
-
 ## If you need a hint
 Look at [this version](https://github.com/koudyk/git-sandbox/blob/main/exercises/hints/HINTS__task-1_track-and-share-your-work.md
-) of this file to see which git command(s) to use for each step and which commands to put on your drawing.
-
+) of this file to see which git command(s) to use for each step.
 
 ## Steps
 1. Make a directory somewhere on your machine. Make its name unique so there isn't another with the same name on GitHub.

@@ -3,11 +3,8 @@
 ## Task
 Practice collaborating with a partner on git and github. This includes opening an issue on their repo, forking it, making a change, and integrating that change with a pull request.
 
-## Add to your drawing
-As you go through these steps, add to your drawing the commands that move changes between different parts of the git project. 
-
 ## If you need a hint
-Look at [this version](https://github.com/koudyk/git-sandbox/blob/main/exercises/hints/HINTS__task-2_collaborate-with-a-partner.md) of this file to see which git command(s) to use for each step and which commands to put on your drawing.
+Look at [this version](https://github.com/koudyk/git-sandbox/blob/main/exercises/hints/HINTS__task-2_collaborate-with-a-partner.md) of this file to see which git command(s) to use for each step.
 
 ## Steps
 1. Find a partner (the instructor will help with this)
